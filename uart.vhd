@@ -1,5 +1,5 @@
 -- uart.vhd: UART controller - receiving part
--- Author(s): 
+-- Author(s): xkiril01 
 --
 library ieee;
 use ieee.std_logic_1164.all;
